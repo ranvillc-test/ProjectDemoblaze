@@ -1,0 +1,11 @@
+Proyecto Demoblaze 05/08/2023
+
+Dentro del desarrollo de las pruebas automatizadas para el flujo finalizar un compra con 2 productos se encontraron retos que se fueron solucionando a la medida de lo que se requería, se realizaron varias pruebas para validar la estabilidad se intentó de realizar un código bajo buenas prácticas y patrón de diseño.
+
+La ejecución de la suite de prueba tiene en promedio 16 segundos de acuerdo a las condiciones/disponibilidad de la plataforma y equipo
+
+Las pruebas desarrolladas cumplen con éxito la funcionalidad solicitada
+
+Para futuros desarrollos sobre estos flujos se podría hacer un poco más dinámico la selección de productos
+
+Rafael Antonio Villa Cabarcas
